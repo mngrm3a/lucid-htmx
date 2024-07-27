@@ -1,2 +1,2 @@
-htmx additions to lucid for both lucid1 and lucid2
+Another version of lucid-htmx that works with lucid2
 
